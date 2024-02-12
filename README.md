@@ -1,3 +1,4 @@
+# Project's Topic: Average Time Spent By A Yser On Social Media 
 # Problem
 One common problem arises when users encounter content on social media platforms that does not align with their interests or preferences, leading to dissatisfaction and decreased engagement. This issue often stems from algorithms that fail to accurately personalize content based on individual user preferences, resulting in a mismatch between the content displayed and the user's interests. As a result, users may become disenchanted with the platform, leading to reduced usage, loss of interest, or even abandonment.
 # Project motivations
