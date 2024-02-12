@@ -3,7 +3,8 @@ Choosing this dataset focusing on the average time spent by users on social medi
 
 
 # Our goal 
-Our aim is to gauge users' interests to deliver content that suits their preferences. This involves analyzing their interactions and content consumption habits to customize the content they encounter, enhancing their overall experience on the platform.
+Our aim is to gauge users' interests and deliver content that suits their preferences, enhancing their overall experience on the platform. This involves analyzing their interactions and content consumption habits to customize the content they encounter. By understanding what users are interested in and how they interact with the platform, we can tailor the content to their preferences, ultimately making their experience more enjoyable.
+
 
 # Group Members
 Deema Alkanhal 
