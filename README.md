@@ -1,2 +1,3 @@
-# IT326-Project-
-IT326 project 
+# Average Time Spent By A User On Social Media-
+
+#Our motivations-
