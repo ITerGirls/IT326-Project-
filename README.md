@@ -7,7 +7,7 @@ Our aim is to gauge users' interests and deliver content that suits their prefer
 
 
 # Group Members
-Deema Alkanhal 
-Shahad Alsalman
-Sarra Algarny
+Deema Alkanhal- 
+Shahad Alsalman-
+Sarra Algarny-
 Najla ben-Dakheel
