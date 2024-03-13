@@ -1,0 +1,669 @@
+age,gender,time_spent,platform,interests,location,demographics,profession,income,indebt,isHomeOwner,Owns_Car,discretized_time_spent
+1.0974468129241395,1,-0.7832564606304233,Instagram,Sports,United Kingdom,Urban,Software Engineer,1.5855810481973434,True,False,False,Low
+0.35776921123578803,0,-1.174007256523719,Facebook,Travel,United Kingdom,Urban,Student,-1.5066797149360673,True,True,True,Low
+-0.6777794311279041,1,1.1704975188360547,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,-0.602168260442972,False,False,False,High
+-1.1955537523097501,1,-1.5647580524170146,Instagram,Lifestlye,Australia,Urban,Software Engineer,-0.16300679701425308,False,True,True,Low
+-0.23397287011489315,1,-0.7832564606304233,Facebook,Travel,United States,Urban,Marketer Manager,1.3858095873868788,True,True,True,Low
+1.0974468129241395,1,1.1704975188360547,YouTube,Sports,United States,Urban,Student,0.6142552731978909,True,True,True,High
+-0.3819083904525635,1,-0.3925056647371277,Instagram,Sports,Australia,Urban,Marketer Manager,-0.4752546265163239,True,False,True,Medium
+-0.9736504718032446,0,0.779746722942759,YouTube,Lifestlye,United Kingdom,Urban,Student,0.41817706628476253,True,True,False,High
+1.1714145730929746,0,0.38899592704946345,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,-1.0487162316663636,False,True,False,Medium
+-1.565392553153926,1,0.38899592704946345,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,1.1712651109870686,True,True,False,Medium
+-0.16000510994605802,1,1.1704975188360547,Instagram,Travel,United States,Sub_Urban,Student,-0.10727223819990496,True,True,False,High
+-1.639360313322761,0,0.779746722942759,Instagram,Sports,United Kingdom,Rural,Marketer Manager,-1.3545848044366715,False,True,True,High
+-0.012069589608387709,0,1.56124831472935,Facebook,Sports,United States,Sub_Urban,Student,-0.9486626260839796,False,False,False,High
+1.4672856137683152,0,-0.3925056647371277,Facebook,Sports,United States,Urban,Marketer Manager,0.723374138346464,False,False,False,Medium
+0.4317369714046232,1,-1.174007256523719,Instagram,Sports,United Kingdom,Rural,Software Engineer,0.7112871255915452,False,False,True,Low
+-1.639360313322761,1,0.38899592704946345,YouTube,Travel,United States,Rural,Marketer Manager,-0.8838628077034423,True,True,True,Medium
+-0.23397287011489315,0,-1.5647580524170146,YouTube,Sports,Australia,Sub_Urban,Software Engineer,0.3990392960894743,True,True,True,Low
+-0.16000510994605802,1,-1.174007256523719,Instagram,Lifestlye,Australia,Urban,Software Engineer,0.8952783197497546,True,False,False,Low
+1.4672856137683152,0,-0.7832564606304233,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,0.613248022134981,True,False,False,Low
+0.06189817056044744,1,-0.001754868843832147,YouTube,Travel,Australia,Urban,Software Engineer,-1.318323766171915,True,False,True,Medium
+1.319350093430645,1,-1.5647580524170146,Facebook,Sports,United States,Urban,Marketer Manager,-0.29898569050709034,False,False,True,Low
+0.28380145106695287,1,1.1704975188360547,Facebook,Lifestlye,United States,Rural,Software Engineer,-0.3389399826691833,True,False,True,High
+-0.6038116709590688,0,1.1704975188360547,Instagram,Lifestlye,United States,Urban,Software Engineer,-0.20766159413659224,False,True,True,High
+-0.6777794311279041,0,-0.3925056647371277,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,1.2041686457087923,True,True,True,Medium
+1.4672856137683152,1,-0.7832564606304233,Instagram,Travel,United States,Rural,Marketer Manager,-0.5266244307247291,False,True,False,Low
+-1.565392553153926,1,0.38899592704946345,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,-0.7075938716942088,True,False,False,Medium
+0.9495112925864693,1,1.56124831472935,YouTube,Lifestlye,United States,Urban,Marketer Manager,0.7247171397636772,True,True,False,High
+-1.121585992140915,0,-0.3925056647371277,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,-1.0292427111167721,True,False,False,Medium
+1.0974468129241395,0,1.1704975188360547,Instagram,Sports,Australia,Urban,Software Engineer,-1.3354470342413833,True,False,False,High
+-0.4558761506213986,0,-1.5647580524170146,Instagram,Lifestlye,Australia,Urban,Marketer Manager,-0.2506376394874149,True,True,False,Low
+-1.4914247929850908,1,1.56124831472935,Instagram,Travel,United States,Rural,Marketer Manager,-0.6864415993731008,False,True,True,High
+0.06189817056044744,1,0.38899592704946345,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,-1.3707008214432301,False,False,True,Medium
+-0.7517471912967392,0,-0.3925056647371277,Instagram,Travel,United Kingdom,Urban,Student,1.249159193185435,True,False,True,Medium
+-1.121585992140915,1,1.56124831472935,Facebook,Travel,Australia,Rural,Software Engineer,-0.7478839142106051,False,False,False,High
+0.13586593072928257,0,-0.001754868843832147,Instagram,Sports,Australia,Sub_Urban,Software Engineer,-1.289449235701831,True,True,False,Medium
+-0.3079406302837283,0,-0.001754868843832147,YouTube,Lifestlye,United States,Rural,Student,-0.2576883969277842,True,False,True,Medium
+1.6891888942748208,1,-1.5647580524170146,Facebook,Travel,United States,Urban,Marketer Manager,-1.5278319872571753,False,False,False,Low
+-1.2695215124785852,0,1.1704975188360547,Facebook,Sports,United States,Sub_Urban,Software Engineer,-1.6799268977565711,False,True,True,High
+1.4672856137683152,1,1.1704975188360547,YouTube,Travel,United States,Sub_Urban,Software Engineer,-0.498757151317555,False,True,False,High
+-0.7517471912967392,1,-1.174007256523719,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,-1.3707008214432301,True,False,False,Low
+-0.5298439107902337,1,1.56124831472935,Instagram,Travel,United States,Rural,Marketer Manager,1.391853093764338,True,False,False,High
+0.875543532417634,1,-0.001754868843832147,Facebook,Sports,United States,Sub_Urban,Software Engineer,0.2580241472820875,False,True,True,Medium
+1.1714145730929746,1,-0.3925056647371277,Instagram,Travel,United Kingdom,Urban,Software Engineer,-0.6713328334294522,True,False,False,Medium
+-1.3434892726474204,0,-0.7832564606304233,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,-0.9295248558886914,False,False,True,Low
+1.319350093430645,0,0.38899592704946345,Instagram,Lifestlye,Australia,Sub_Urban,Student,1.5939748070549258,False,True,False,Medium
+-1.4914247929850908,1,-0.001754868843832147,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,-0.23015686787491346,False,False,True,Medium
+1.4672856137683152,0,-1.5647580524170146,Instagram,Travel,Australia,Sub_Urban,Software Engineer,-0.4447013442747234,True,False,False,Low
+0.7276080120799637,0,-0.7832564606304233,YouTube,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,1.1410475790997716,False,False,True,Low
+0.5057047315734583,0,1.1704975188360547,YouTube,Lifestlye,Australia,Urban,Software Engineer,1.3522345519565484,False,True,True,High
+-0.7517471912967392,1,-1.174007256523719,Instagram,Sports,United Kingdom,Rural,Marketer Manager,0.990295670017589,True,False,True,Low
+-0.08603734977722285,1,1.56124831472935,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,-1.5493200099325868,False,False,False,High
+1.1714145730929746,0,0.779746722942759,Facebook,Lifestlye,United States,Sub_Urban,Software Engineer,-0.43731483648005076,False,True,False,High
+1.5412533739371503,1,0.779746722942759,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,0.09552097579928939,False,False,True,High
+-0.4558761506213986,0,0.38899592704946345,Facebook,Sports,United States,Sub_Urban,Software Engineer,-0.16804305232880262,True,True,False,Medium
+1.6891888942748208,1,-0.3925056647371277,Instagram,Travel,United Kingdom,Urban,Marketer Manager,-0.7482196645649083,False,False,True,Medium
+-0.012069589608387709,1,0.779746722942759,Instagram,Sports,United Kingdom,Urban,Software Engineer,0.22713511468618375,False,True,False,High
+0.13586593072928257,1,-0.3925056647371277,Facebook,Sports,Australia,Rural,Student,1.2172629095266212,False,False,True,Medium
+0.06189817056044744,1,-1.174007256523719,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,1.1212383081958768,False,True,False,Low
+0.35776921123578803,1,-1.174007256523719,Facebook,Sports,United States,Rural,Student,1.5483127588696768,True,True,True,Low
+-0.6777794311279041,0,-0.001754868843832147,Instagram,Sports,Australia,Rural,Software Engineer,-0.920123845968199,True,False,True,Medium
+1.5412533739371503,0,-1.5647580524170146,Instagram,Lifestlye,Australia,Rural,Software Engineer,0.7297533950782267,False,False,True,Low
+-1.713328073491596,0,0.779746722942759,Instagram,Travel,United States,Sub_Urban,Software Engineer,1.5651002765848419,False,True,False,High
+0.06189817056044744,0,1.1704975188360547,Instagram,Lifestlye,Australia,Urban,Student,-1.4932497007639354,True,False,False,High
+-1.2695215124785852,1,0.38899592704946345,Instagram,Lifestlye,United States,Sub_Urban,Student,1.0487162316663636,False,True,True,Medium
+-0.012069589608387709,0,0.38899592704946345,Facebook,Travel,United States,Rural,Software Engineer,1.5301822397372984,False,True,False,Medium
+-1.713328073491596,1,-1.174007256523719,YouTube,Sports,Australia,Rural,Student,-0.15259853603085072,True,False,True,Low
+1.4672856137683152,0,-1.5647580524170146,Instagram,Lifestlye,United States,Rural,Marketer Manager,0.90904408427619,True,True,True,Low
+-1.1955537523097501,0,0.779746722942759,Instagram,Lifestlye,Australia,Rural,Student,0.8328287538493404,True,True,True,High
+-0.012069589608387709,1,0.779746722942759,Instagram,Travel,United Kingdom,Rural,Software Engineer,1.2384151818477291,True,True,True,High
+-1.1955537523097501,1,-1.5647580524170146,Instagram,Travel,Australia,Rural,Marketer Manager,-1.411662364668233,False,False,True,Low
+0.801575772248799,1,1.1704975188360547,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,-0.1828160679181479,False,False,True,High
+0.6536402519111286,1,-1.5647580524170146,Facebook,Travel,United States,Rural,Marketer Manager,0.5115156647810805,True,True,True,Low
+-1.4174570328162555,1,1.1704975188360547,YouTube,Lifestlye,United States,Urban,Marketer Manager,-0.09350647367346958,True,False,True,High
+1.0974468129241395,1,-0.3925056647371277,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,0.04717292477961392,True,False,False,Medium
+1.24538233326181,0,-1.5647580524170146,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,-0.5813517384761673,False,True,False,Low
+-0.8996827116344095,0,1.56124831472935,Facebook,Lifestlye,United States,Sub_Urban,Student,-1.0782622628450542,False,True,False,High
+-0.08603734977722285,1,0.38899592704946345,Facebook,Sports,United States,Rural,Software Engineer,-1.4522881575389324,False,False,True,Medium
+0.9495112925864693,0,-1.5647580524170146,Instagram,Sports,United Kingdom,Urban,Student,0.5524772080060834,False,False,True,Low
+0.801575772248799,0,1.56124831472935,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,1.4119981150225362,True,True,True,High
+1.4672856137683152,0,1.56124831472935,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,-1.6013613148495984,False,True,False,High
+1.1714145730929746,0,1.56124831472935,Instagram,Sports,United States,Sub_Urban,Marketer Manager,-1.3330967817612602,True,True,True,High
+0.801575772248799,0,-0.3925056647371277,YouTube,Lifestlye,Australia,Urban,Marketer Manager,-0.698864362482323,False,False,True,Medium
+-1.713328073491596,0,-1.174007256523719,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,1.4412083958469235,True,True,False,Low
+0.9495112925864693,0,-0.3925056647371277,YouTube,Lifestlye,Australia,Sub_Urban,Student,-1.3780873292379028,False,False,False,Medium
+1.6891888942748208,1,0.38899592704946345,Instagram,Lifestlye,United States,Rural,Student,-0.09787122827941251,False,False,False,Medium
+-0.7517471912967392,0,-0.7832564606304233,YouTube,Lifestlye,Australia,Urban,Software Engineer,1.630907346028289,False,False,True,Low
+-1.565392553153926,0,0.38899592704946345,Instagram,Travel,United States,Sub_Urban,Marketer Manager,-1.6738833913791118,False,False,False,Medium
+-1.713328073491596,1,-1.174007256523719,YouTube,Travel,United States,Rural,Student,1.2679612130264197,True,False,True,Low
+-1.4174570328162555,1,-1.174007256523719,Facebook,Sports,United States,Sub_Urban,Marketer Manager,1.1595138485864531,True,True,True,Low
+1.0974468129241395,1,-0.7832564606304233,Instagram,Sports,United Kingdom,Urban,Software Engineer,1.3314180299897438,True,False,False,Low
+0.20983369089811774,1,-1.5647580524170146,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,-0.4638391144700116,False,True,True,Low
+-0.6777794311279041,0,0.38899592704946345,Instagram,Sports,Australia,Sub_Urban,Software Engineer,-0.940268867226397,False,True,False,Medium
+-0.6777794311279041,1,0.779746722942759,Instagram,Lifestlye,United States,Urban,Marketer Manager,-1.4260996299032749,False,True,True,High
+1.319350093430645,0,-0.001754868843832147,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,1.5214527305254126,False,True,True,Medium
+-0.8257149514655744,1,-1.5647580524170146,Instagram,Sports,United States,Rural,Marketer Manager,-1.2813912271985517,True,False,True,Low
+0.5796724917422935,0,0.779746722942759,Instagram,Sports,United Kingdom,Rural,Software Engineer,0.5601994661550592,True,False,True,High
+0.5796724917422935,1,-0.7832564606304233,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,0.3238312167255347,False,False,True,Low
+-1.4914247929850908,0,1.56124831472935,Instagram,Sports,United Kingdom,Urban,Software Engineer,-0.5044649073407111,True,False,True,High
+0.4317369714046232,1,-1.5647580524170146,Facebook,Sports,United Kingdom,Rural,Student,0.969143397696481,True,False,False,Low
+0.9495112925864693,0,-1.5647580524170146,YouTube,Lifestlye,United States,Urban,Student,-0.3057006975931564,False,False,True,Low
+1.5412533739371503,1,0.38899592704946345,Instagram,Travel,United Kingdom,Sub_Urban,Software Engineer,0.09518522544498609,False,True,False,Medium
+-0.6777794311279041,0,-0.7832564606304233,YouTube,Lifestlye,United States,Urban,Marketer Manager,0.008561634034734198,False,True,False,Low
+1.3933178535994801,1,1.1704975188360547,Facebook,Lifestlye,Australia,Rural,Marketer Manager,0.18785232323269743,False,False,True,High
+0.35776921123578803,1,-1.174007256523719,YouTube,Lifestlye,United States,Sub_Urban,Student,1.0198417011962795,True,True,False,Low
+0.875543532417634,0,1.56124831472935,Facebook,Lifestlye,Australia,Rural,Marketer Manager,-0.7250528901179805,False,False,False,High
+-0.8257149514655744,0,-0.7832564606304233,Instagram,Travel,Australia,Urban,Student,0.17643681118638516,True,False,True,Low
+0.5796724917422935,0,-0.001754868843832147,YouTube,Sports,United States,Sub_Urban,Student,-0.4812981328937833,False,True,True,Medium
+-0.16000510994605802,1,-1.174007256523719,Instagram,Lifestlye,Australia,Rural,Marketer Manager,0.547776703045837,True,True,False,Low
+0.28380145106695287,1,0.38899592704946345,YouTube,Travel,United States,Rural,Student,-1.1900671308280537,False,True,True,Medium
+1.319350093430645,0,1.56124831472935,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,-0.47324012439050406,True,False,True,High
+0.28380145106695287,1,-0.3925056647371277,YouTube,Travel,United Kingdom,Urban,Marketer Manager,0.9946604246235319,True,True,True,Medium
+1.4672856137683152,1,0.38899592704946345,Instagram,Lifestlye,United States,Rural,Student,-1.1578350968149367,False,False,True,Medium
+-0.3079406302837283,1,-1.174007256523719,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,-1.2521809463741644,False,False,True,Low
+0.4317369714046232,1,-0.001754868843832147,YouTube,Lifestlye,Australia,Rural,Marketer Manager,0.3036861954673366,False,False,True,Medium
+-0.9736504718032446,0,0.779746722942759,Instagram,Lifestlye,United Kingdom,Rural,Software Engineer,-0.8764762999087696,False,True,False,High
+0.28380145106695287,1,0.779746722942759,Instagram,Lifestlye,United States,Sub_Urban,Student,-1.3273890257381042,True,False,True,High
+0.06189817056044744,1,-0.001754868843832147,Facebook,Travel,Australia,Urban,Student,0.007218632617520991,False,True,False,Medium
+1.0974468129241395,0,1.56124831472935,YouTube,Sports,United States,Sub_Urban,Student,1.559728270915989,True,False,True,High
+0.6536402519111286,1,-0.3925056647371277,YouTube,Sports,United States,Urban,Marketer Manager,1.4324788866350375,False,False,False,Medium
+-0.8257149514655744,1,-0.001754868843832147,Facebook,Lifestlye,United States,Rural,Student,-0.9923101721434088,False,False,True,Medium
+1.24538233326181,0,0.38899592704946345,YouTube,Sports,Australia,Sub_Urban,Software Engineer,-0.954706132461439,False,False,True,Medium
+1.0974468129241395,0,-1.174007256523719,Instagram,Sports,United States,Urban,Student,-1.637286602760052,False,False,True,Low
+-1.3434892726474204,0,-0.3925056647371277,Facebook,Travel,Australia,Rural,Software Engineer,0.7109513752372418,True,False,False,Medium
+0.20983369089811774,0,-0.3925056647371277,YouTube,Sports,United Kingdom,Urban,Student,-1.1363470741395254,True,True,True,Medium
+0.9495112925864693,0,1.1704975188360547,Instagram,Travel,Australia,Rural,Marketer Manager,-1.0839700188682102,False,True,True,High
+1.319350093430645,1,-1.174007256523719,Facebook,Travel,Australia,Sub_Urban,Student,-1.2407654343278522,False,True,True,Low
+0.5796724917422935,0,0.779746722942759,Instagram,Sports,United States,Urban,Student,0.06026718859744269,False,False,True,High
+-0.012069589608387709,1,0.779746722942759,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,0.9782086572626701,True,True,True,High
+-0.8996827116344095,0,1.1704975188360547,Facebook,Sports,Australia,Sub_Urban,Software Engineer,-1.0111121919843937,False,True,False,High
+1.0974468129241395,1,-1.5647580524170146,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,-0.17375080835195875,True,False,False,Low
+-1.639360313322761,1,1.1704975188360547,Instagram,Travel,United Kingdom,Rural,Software Engineer,-1.1078082940237446,False,True,False,High
+-1.565392553153926,1,-0.3925056647371277,Facebook,Travel,United Kingdom,Urban,Software Engineer,1.5966608098893522,False,False,True,Medium
+0.9495112925864693,1,-0.3925056647371277,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,-1.0752405096563245,False,False,True,Medium
+-1.639360313322761,0,0.779746722942759,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,-0.2180698551199946,True,False,False,High
+0.28380145106695287,0,0.38899592704946345,Facebook,Travel,United Kingdom,Rural,Software Engineer,-0.42052731876488564,True,True,True,Medium
+-0.08603734977722285,0,-1.5647580524170146,Instagram,Lifestlye,United States,Rural,Student,-1.4885491958036892,False,True,True,Low
+0.9495112925864693,1,1.1704975188360547,Instagram,Lifestlye,United States,Sub_Urban,Student,-1.3159735136917918,True,False,False,High
+0.5796724917422935,1,0.779746722942759,Facebook,Lifestlye,Australia,Rural,Marketer Manager,0.1475622807163012,True,True,True,High
+-1.713328073491596,1,0.38899592704946345,YouTube,Lifestlye,Australia,Urban,Marketer Manager,0.8667395396339739,True,True,True,Medium
+-0.3819083904525635,1,-0.001754868843832147,Instagram,Lifestlye,United States,Rural,Marketer Manager,-1.1967821379141197,True,False,True,Medium
+-1.639360313322761,1,0.38899592704946345,YouTube,Travel,United States,Rural,Marketer Manager,0.9389258658091838,False,False,True,Medium
+1.4672856137683152,0,1.56124831472935,Instagram,Sports,Australia,Rural,Student,-0.014269390057890331,False,False,False,High
+0.13586593072928257,0,1.56124831472935,YouTube,Sports,United Kingdom,Rural,Marketer Manager,1.5771872893397607,True,False,True,High
+-1.3434892726474204,1,1.56124831472935,Instagram,Lifestlye,Australia,Urban,Software Engineer,-1.3455195448704824,False,False,True,High
+0.5796724917422935,1,1.1704975188360547,Instagram,Travel,Australia,Rural,Marketer Manager,-0.8798338034518027,True,False,True,High
+-0.9736504718032446,1,-1.5647580524170146,Instagram,Sports,United States,Sub_Urban,Software Engineer,-1.164885854255306,False,False,False,Low
+-0.5298439107902337,1,-0.001754868843832147,YouTube,Travel,United Kingdom,Rural,Software Engineer,-1.2568814513344106,True,False,True,Medium
+1.0234790527553044,0,-0.3925056647371277,YouTube,Travel,Australia,Sub_Urban,Student,-0.045158422653794106,False,True,True,Medium
+-0.16000510994605802,0,0.779746722942759,Instagram,Travel,United States,Rural,Student,0.10425048501117525,False,False,True,High
+-0.9736504718032446,0,1.56124831472935,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,0.04717292477961392,False,False,True,High
+-0.6038116709590688,1,-1.174007256523719,YouTube,Sports,United Kingdom,Rural,Software Engineer,0.5272959314333356,False,False,True,Low
+0.6536402519111286,1,-0.7832564606304233,Facebook,Travel,United Kingdom,Rural,Marketer Manager,0.34968399400688893,True,True,True,Low
+-1.121585992140915,1,-0.3925056647371277,YouTube,Sports,United States,Urban,Marketer Manager,0.5548274604862065,False,True,True,Medium
+-1.3434892726474204,1,-1.5647580524170146,Instagram,Sports,Australia,Rural,Software Engineer,-1.6624678793327994,True,False,False,Low
+-0.6038116709590688,0,0.779746722942759,YouTube,Travel,United Kingdom,Urban,Marketer Manager,0.5390471938339513,True,False,False,High
+-1.565392553153926,0,-0.001754868843832147,Instagram,Sports,United Kingdom,Urban,Marketer Manager,-0.26205315153372716,True,True,True,Medium
+-0.3079406302837283,1,-1.5647580524170146,Facebook,Sports,United States,Rural,Software Engineer,-1.616470080793247,True,False,False,Low
+0.875543532417634,0,-0.7832564606304233,Facebook,Lifestlye,United States,Urban,Student,0.73008914543253,False,True,True,Low
+-1.565392553153926,0,0.779746722942759,YouTube,Lifestlye,Australia,Urban,Marketer Manager,-0.34464773869233944,False,False,False,High
+-0.3819083904525635,0,-0.001754868843832147,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,0.3429689869208229,False,True,True,Medium
+-0.3079406302837283,0,-1.5647580524170146,YouTube,Travel,Australia,Rural,Marketer Manager,-0.8425655141241362,False,True,True,Low
+0.5796724917422935,1,0.38899592704946345,Instagram,Travel,United Kingdom,Rural,Software Engineer,-1.1799946201989546,False,True,False,Medium
+-1.2695215124785852,0,-0.001754868843832147,YouTube,Sports,Australia,Rural,Student,-1.44288714761844,False,True,True,Medium
+1.24538233326181,0,-0.7832564606304233,YouTube,Lifestlye,United States,Sub_Urban,Student,0.7871667056640913,False,True,False,Low
+0.6536402519111286,0,0.779746722942759,YouTube,Travel,United Kingdom,Sub_Urban,Student,0.9305321069516013,False,True,True,High
+-0.4558761506213986,1,1.56124831472935,Instagram,Travel,Australia,Urban,Software Engineer,-1.5147377234393467,False,False,True,High
+1.1714145730929746,1,-1.174007256523719,Facebook,Travel,United Kingdom,Urban,Marketer Manager,0.15394153744806394,True,False,False,Low
+0.06189817056044744,0,-1.174007256523719,Instagram,Lifestlye,Australia,Sub_Urban,Marketer Manager,1.2239779166126872,False,True,False,Low
+-0.08603734977722285,0,-0.7832564606304233,YouTube,Sports,Australia,Urban,Software Engineer,-1.3169807647547018,True,True,True,Low
+0.4317369714046232,0,0.779746722942759,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,1.1756298655930117,True,True,True,High
+1.319350093430645,0,1.56124831472935,Instagram,Lifestlye,United States,Urban,Software Engineer,-0.4470515967548465,True,False,False,High
+0.801575772248799,1,-1.5647580524170146,YouTube,Sports,United States,Urban,Marketer Manager,1.5432765035551272,True,False,False,Low
+0.13586593072928257,0,-0.7832564606304233,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,1.6188203332733702,True,False,False,Low
+-1.713328073491596,1,0.38899592704946345,YouTube,Travel,United Kingdom,Urban,Software Engineer,0.7485554149192116,False,True,True,Medium
+-0.8996827116344095,1,0.779746722942759,YouTube,Travel,United Kingdom,Rural,Marketer Manager,-0.8536452758161451,True,False,True,High
+-1.4174570328162555,1,-0.3925056647371277,YouTube,Sports,United Kingdom,Rural,Marketer Manager,-0.011919137577767218,True,True,True,Medium
+-0.3819083904525635,1,1.56124831472935,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,-0.34766949188106916,False,True,False,High
+-0.6038116709590688,0,1.1704975188360547,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,0.7680289354688031,True,True,False,High
+-1.565392553153926,1,-1.5647580524170146,Instagram,Sports,United Kingdom,Urban,Marketer Manager,-1.4546384100190555,True,True,False,Low
+-0.012069589608387709,1,1.56124831472935,Facebook,Travel,United States,Sub_Urban,Software Engineer,1.4885491958036892,False,True,True,High
+-0.9736504718032446,1,-1.5647580524170146,Instagram,Lifestlye,United States,Rural,Student,-0.9745154033653338,True,True,False,Low
+0.875543532417634,0,-0.001754868843832147,Facebook,Sports,United Kingdom,Rural,Marketer Manager,1.576515788631154,True,False,False,Medium
+1.1714145730929746,0,1.1704975188360547,Facebook,Lifestlye,United Kingdom,Rural,Software Engineer,-0.2835411742091385,False,True,True,High
+-0.3079406302837283,0,0.38899592704946345,YouTube,Travel,Australia,Urban,Student,0.7015503653167494,False,True,False,Medium
+0.06189817056044744,1,-1.174007256523719,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,1.351898801602245,True,True,False,Low
+0.801575772248799,0,-0.7832564606304233,Instagram,Sports,Australia,Urban,Student,-0.3745295202253333,True,True,False,Low
+0.06189817056044744,1,0.38899592704946345,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,1.4287856327377013,True,False,False,Medium
+0.35776921123578803,0,-0.7832564606304233,YouTube,Lifestlye,Australia,Rural,Software Engineer,-1.33511128388708,True,False,True,Low
+-0.4558761506213986,0,-1.174007256523719,YouTube,Sports,United States,Rural,Software Engineer,0.7431834092503588,True,True,False,Low
+0.801575772248799,0,-1.174007256523719,Facebook,Travel,United Kingdom,Urban,Student,1.3653288157743773,False,False,True,Low
+1.24538233326181,1,-1.5647580524170146,Facebook,Travel,United Kingdom,Urban,Student,0.5843734916648969,False,True,True,Low
+0.6536402519111286,1,-1.174007256523719,YouTube,Sports,United States,Sub_Urban,Software Engineer,0.8073117269222895,True,False,True,Low
+0.6536402519111286,1,-0.3925056647371277,YouTube,Sports,United Kingdom,Rural,Student,-1.5144019730850433,True,True,True,Medium
+-0.23397287011489315,1,0.38899592704946345,Facebook,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,-0.940268867226397,False,True,False,Medium
+-0.3079406302837283,0,-0.3925056647371277,Facebook,Sports,United States,Sub_Urban,Software Engineer,1.4076333604165934,False,False,True,Medium
+-1.1955537523097501,0,-0.001754868843832147,Instagram,Sports,United States,Rural,Marketer Manager,-0.16199954595134317,True,True,False,Medium
+-1.2695215124785852,1,1.56124831472935,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,-0.7747439425548692,True,True,False,High
+-0.5298439107902337,1,1.56124831472935,Instagram,Travel,Australia,Rural,Software Engineer,-0.12641000839519317,True,True,True,High
+-0.8996827116344095,0,-1.5647580524170146,Instagram,Sports,United Kingdom,Rural,Student,-1.3052295023540863,True,False,True,Low
+-0.16000510994605802,0,-0.3925056647371277,YouTube,Travel,Australia,Sub_Urban,Software Engineer,-0.7821304503495419,False,True,False,Medium
+1.0234790527553044,1,1.1704975188360547,Instagram,Travel,United States,Rural,Student,0.9647786430905381,True,False,False,High
+1.5412533739371503,1,0.38899592704946345,Instagram,Travel,United Kingdom,Rural,Student,-1.4247566284860618,False,True,True,Medium
+-1.1955537523097501,0,-0.001754868843832147,Instagram,Lifestlye,United States,Rural,Software Engineer,1.1118372982753844,True,True,False,Medium
+0.20983369089811774,0,-0.3925056647371277,YouTube,Travel,United Kingdom,Rural,Software Engineer,0.559863715800756,False,True,False,Medium
+0.20983369089811774,1,1.1704975188360547,YouTube,Travel,United States,Urban,Marketer Manager,0.007218632617520991,True,True,False,High
+0.7276080120799637,0,1.1704975188360547,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,0.9939889239149253,True,False,False,High
+-0.23397287011489315,1,-1.5647580524170146,Instagram,Lifestlye,Australia,Sub_Urban,Student,-1.143733581934198,True,True,True,Low
+0.6536402519111286,0,-0.001754868843832147,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,-1.3169807647547018,True,True,False,Medium
+0.28380145106695287,0,-0.3925056647371277,Instagram,Sports,United Kingdom,Urban,Marketer Manager,-1.2417726853907622,False,True,True,Medium
+1.6891888942748208,1,0.38899592704946345,Instagram,Lifestlye,United States,Urban,Student,-1.438522393012497,False,False,False,Medium
+0.6536402519111286,0,0.38899592704946345,Instagram,Lifestlye,Australia,Urban,Student,-0.38829528475176867,True,False,False,Medium
+-1.4174570328162555,0,-1.174007256523719,Instagram,Sports,United Kingdom,Rural,Marketer Manager,1.2834057293243717,True,False,True,Low
+-1.4914247929850908,0,0.779746722942759,Facebook,Sports,Australia,Rural,Marketer Manager,0.7646714319257701,False,False,False,High
+-0.5298439107902337,1,-0.001754868843832147,Facebook,Travel,United Kingdom,Rural,Marketer Manager,1.5503272609954966,True,True,False,Medium
+1.4672856137683152,0,0.38899592704946345,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,-1.3989038512047074,False,False,True,Medium
+0.4317369714046232,1,-1.174007256523719,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,-0.38460203085443234,False,False,True,Low
+0.35776921123578803,0,-0.3925056647371277,YouTube,Sports,Australia,Rural,Software Engineer,-0.18785232323269743,True,False,True,Medium
+1.6152211341059854,1,-1.5647580524170146,YouTube,Sports,United States,Rural,Marketer Manager,1.570808032607998,False,False,True,Low
+-1.3434892726474204,0,0.779746722942759,Facebook,Travel,United States,Urban,Student,-1.0000324302923849,False,False,False,High
+0.801575772248799,1,-1.174007256523719,Facebook,Travel,United Kingdom,Rural,Software Engineer,-1.5912888042204993,True,True,True,Low
+1.24538233326181,1,-1.174007256523719,Instagram,Sports,United States,Rural,Student,0.4087760563642701,False,True,True,Low
+-0.012069589608387709,1,-0.001754868843832147,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,-1.424085127777455,True,True,False,Medium
+0.35776921123578803,0,-1.174007256523719,Instagram,Sports,United States,Urban,Marketer Manager,0.6008252590257588,True,False,False,Low
+1.6152211341059854,0,1.56124831472935,Instagram,Lifestlye,Australia,Urban,Software Engineer,-1.0137981948188202,True,False,True,High
+0.801575772248799,0,-1.5647580524170146,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,0.6975213610651098,True,False,False,Low
+0.6536402519111286,0,-0.7832564606304233,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,-0.787838206372698,True,False,False,Low
+-0.23397287011489315,0,-0.3925056647371277,YouTube,Sports,United States,Rural,Marketer Manager,1.2545311988542875,True,False,False,Medium
+0.5796724917422935,1,0.779746722942759,YouTube,Sports,United States,Rural,Student,-0.9751869040739404,True,True,False,High
+-0.08603734977722285,1,-0.3925056647371277,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,-1.489556446866599,False,True,True,Medium
+0.6536402519111286,0,-1.174007256523719,Instagram,Sports,United Kingdom,Urban,Software Engineer,-1.3780873292379028,True,False,True,Low
+-0.4558761506213986,1,0.38899592704946345,Instagram,Travel,Australia,Rural,Student,-0.13446801689847243,False,False,True,Medium
+1.319350093430645,0,0.38899592704946345,Instagram,Sports,Australia,Sub_Urban,Student,-1.0201774515505828,True,True,False,Medium
+0.5057047315734583,0,0.38899592704946345,YouTube,Travel,Australia,Rural,Student,-0.45477385490382244,True,True,True,Medium
+-1.565392553153926,1,-0.001754868843832147,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,-1.5315252411545117,True,False,False,Medium
+1.1714145730929746,0,-0.3925056647371277,YouTube,Travel,United States,Sub_Urban,Software Engineer,-0.2355288735437663,True,True,False,Medium
+1.6152211341059854,1,-1.5647580524170146,YouTube,Travel,Australia,Rural,Marketer Manager,-0.8808410545147126,False,False,False,Low
+-0.012069589608387709,0,0.38899592704946345,Instagram,Sports,Australia,Rural,Software Engineer,-0.021655897852562975,False,False,True,Medium
+0.5796724917422935,0,-1.174007256523719,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,1.236064929367606,True,False,False,Low
+1.6891888942748208,1,-0.7832564606304233,YouTube,Travel,United States,Urban,Marketer Manager,1.4865346936778692,True,True,True,Low
+-0.16000510994605802,1,1.1704975188360547,Facebook,Travel,United Kingdom,Sub_Urban,Software Engineer,1.6027043162668118,True,True,False,High
+-0.08603734977722285,1,0.38899592704946345,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,-0.044151171590884206,True,True,True,Medium
+-1.639360313322761,0,-0.7832564606304233,Instagram,Travel,United Kingdom,Urban,Marketer Manager,-0.7136373780716683,True,False,False,Low
+0.20983369089811774,0,0.779746722942759,Facebook,Travel,United States,Urban,Marketer Manager,1.5083584667075838,True,False,True,High
+-1.639360313322761,1,1.56124831472935,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,-0.22679936433188044,False,False,False,High
+0.13586593072928257,0,-0.001754868843832147,YouTube,Lifestlye,United Kingdom,Rural,Student,1.4902279475752056,False,True,False,Medium
+-0.5298439107902337,0,-0.7832564606304233,Instagram,Lifestlye,United States,Rural,Software Engineer,-0.061610190014655904,False,True,False,Low
+1.1714145730929746,1,-1.174007256523719,Instagram,Lifestlye,Australia,Rural,Student,0.6495090603997375,False,True,True,Low
+-1.121585992140915,1,-0.7832564606304233,Instagram,Travel,Australia,Rural,Student,-0.21101909767962526,True,False,True,Low
+1.0974468129241395,0,-0.3925056647371277,YouTube,Travel,United States,Sub_Urban,Marketer Manager,1.0433442259975108,True,True,False,Medium
+1.319350093430645,0,1.56124831472935,YouTube,Sports,Australia,Rural,Marketer Manager,0.3755367712882432,False,True,False,High
+0.13586593072928257,1,-1.174007256523719,Instagram,Lifestlye,United Kingdom,Sub_Urban,Student,-1.460681916396515,True,True,False,Low
+0.801575772248799,1,1.56124831472935,Facebook,Lifestlye,United States,Rural,Marketer Manager,1.0278997096995588,False,True,False,High
+0.06189817056044744,1,0.38899592704946345,YouTube,Travel,Australia,Rural,Software Engineer,0.5954532533569059,True,True,True,Medium
+-0.8257149514655744,0,-0.3925056647371277,Instagram,Travel,United States,Urban,Marketer Manager,-0.26440340401385026,True,False,True,Medium
+-1.2695215124785852,1,-1.5647580524170146,YouTube,Travel,United States,Urban,Marketer Manager,0.97921590832558,False,False,True,Low
+0.875543532417634,1,0.38899592704946345,Facebook,Sports,Australia,Rural,Student,1.0389794713915679,True,False,True,Medium
+1.5412533739371503,0,-0.3925056647371277,Instagram,Sports,United Kingdom,Rural,Software Engineer,0.9147518402993461,True,True,True,Medium
+-0.3079406302837283,1,-0.7832564606304233,Facebook,Sports,United Kingdom,Rural,Student,1.1773086173645282,True,False,True,Low
+-1.713328073491596,0,-0.7832564606304233,YouTube,Travel,United Kingdom,Urban,Marketer Manager,1.2313644244073598,True,False,True,Low
+-1.1955537523097501,0,1.56124831472935,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,-0.05556668363719647,False,False,False,High
+1.6152211341059854,0,0.38899592704946345,Instagram,Sports,Australia,Rural,Student,-0.3748652705796366,True,True,False,Medium
+-0.6038116709590688,0,1.56124831472935,Instagram,Lifestlye,United States,Rural,Marketer Manager,-0.14521202823617807,False,False,False,High
+-0.7517471912967392,0,-0.001754868843832147,Instagram,Sports,United Kingdom,Rural,Software Engineer,0.046837174425310615,True,False,False,Medium
+-0.08603734977722285,1,1.1704975188360547,Facebook,Travel,Australia,Rural,Software Engineer,0.9416118686436102,True,False,False,High
+0.28380145106695287,1,-1.174007256523719,Instagram,Sports,United Kingdom,Rural,Software Engineer,-0.6814053440585512,False,False,True,Low
+-1.639360313322761,0,1.56124831472935,YouTube,Lifestlye,United States,Rural,Marketer Manager,0.313087205387829,True,False,False,High
+0.5796724917422935,1,-0.3925056647371277,Facebook,Sports,United States,Urban,Software Engineer,-1.1017647876462853,False,False,True,Medium
+-0.08603734977722285,1,-0.3925056647371277,Facebook,Travel,United Kingdom,Urban,Software Engineer,1.6510523672864872,True,False,True,Medium
+-0.16000510994605802,1,-1.174007256523719,Facebook,Lifestlye,United States,Rural,Marketer Manager,0.5514699569431734,False,True,True,Low
+-0.6777794311279041,0,-0.001754868843832147,Facebook,Travel,United States,Urban,Student,-1.4435586483270466,True,False,False,Medium
+1.3933178535994801,0,-0.7832564606304233,YouTube,Lifestlye,United Kingdom,Urban,Student,-1.2286784215729334,True,False,False,Low
+-1.1955537523097501,0,-1.174007256523719,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,-1.660789127561283,True,False,False,Low
+1.4672856137683152,0,-1.174007256523719,Instagram,Travel,Australia,Urban,Marketer Manager,-0.10022148075953562,True,True,False,Low
+1.4672856137683152,1,1.1704975188360547,YouTube,Lifestlye,United States,Urban,Software Engineer,-1.042672725288904,False,True,False,High
+-1.4174570328162555,1,1.56124831472935,Facebook,Travel,Australia,Urban,Student,0.16535704949437618,True,True,True,High
+1.0974468129241395,0,0.779746722942759,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,-1.328396276801014,True,False,False,High
+0.4317369714046232,1,1.56124831472935,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,0.38997403652328516,False,True,False,High
+1.6891888942748208,0,-0.7832564606304233,YouTube,Sports,United States,Rural,Software Engineer,-0.0612744396603526,True,True,False,Low
+1.1714145730929746,1,-1.5647580524170146,YouTube,Travel,United Kingdom,Urban,Software Engineer,-0.35102699542410215,False,True,False,Low
+-0.8257149514655744,0,-0.3925056647371277,YouTube,Sports,United Kingdom,Sub_Urban,Student,1.4311358852178244,False,False,False,Medium
+1.319350093430645,1,0.779746722942759,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,-0.3594207542816847,False,False,True,High
+0.4317369714046232,0,1.1704975188360547,YouTube,Lifestlye,United States,Rural,Student,1.4912351986381154,False,True,False,High
+-0.3819083904525635,0,-1.5647580524170146,YouTube,Travel,Australia,Sub_Urban,Student,0.21169059838823187,False,False,True,Low
+-0.5298439107902337,1,-0.001754868843832147,Instagram,Travel,United States,Sub_Urban,Marketer Manager,0.24526563381856206,True,True,True,Medium
+-0.3819083904525635,1,0.779746722942759,Instagram,Travel,United Kingdom,Rural,Software Engineer,-1.3794303306551159,False,True,False,High
+0.28380145106695287,1,-0.3925056647371277,Instagram,Sports,United Kingdom,Rural,Student,-0.1683788026831059,False,False,True,Medium
+0.13586593072928257,1,-0.3925056647371277,Instagram,Sports,Australia,Urban,Student,1.37170807250614,False,True,False,Medium
+0.9495112925864693,1,-0.3925056647371277,Instagram,Travel,United States,Rural,Software Engineer,-1.4945927021811485,True,True,True,Medium
+0.13586593072928257,1,0.38899592704946345,Instagram,Travel,United Kingdom,Urban,Marketer Manager,0.4447013442747234,True,True,False,Medium
+-0.08603734977722285,1,0.779746722942759,YouTube,Sports,United Kingdom,Rural,Software Engineer,1.5301822397372984,True,False,True,High
+-0.8996827116344095,0,-0.001754868843832147,Facebook,Sports,Australia,Urban,Software Engineer,-0.4316070804568946,False,False,False,Medium
+-1.713328073491596,1,-0.3925056647371277,YouTube,Sports,United Kingdom,Urban,Software Engineer,-1.6121053261873042,True,True,True,Medium
+0.5796724917422935,0,0.779746722942759,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,1.3555920554995815,False,False,True,High
+0.06189817056044744,1,-0.001754868843832147,Facebook,Lifestlye,United Kingdom,Urban,Student,0.6756975880353951,False,True,False,Medium
+1.5412533739371503,0,-0.001754868843832147,YouTube,Lifestlye,Australia,Urban,Marketer Manager,-1.2901207364104377,True,True,True,Medium
+-1.713328073491596,0,0.779746722942759,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,0.03407866096178514,True,False,False,High
+-0.6038116709590688,0,-1.174007256523719,Facebook,Lifestlye,Australia,Rural,Marketer Manager,-0.051537679385556846,True,True,False,Low
+-1.4174570328162555,1,0.38899592704946345,Instagram,Sports,Australia,Urban,Student,0.859017281484998,True,False,True,Medium
+-1.565392553153926,1,0.779746722942759,YouTube,Lifestlye,Australia,Rural,Marketer Manager,0.15797054169970356,True,True,True,High
+-0.8996827116344095,1,1.1704975188360547,Facebook,Sports,United States,Rural,Marketer Manager,-0.9003145750643041,True,True,False,High
+0.13586593072928257,1,0.779746722942759,Facebook,Sports,Australia,Rural,Student,-0.594446002293996,False,False,False,High
+-0.6038116709590688,0,-0.001754868843832147,Facebook,Sports,Australia,Urban,Marketer Manager,-0.11465874599457761,False,True,True,Medium
+0.9495112925864693,1,-1.5647580524170146,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,-1.5859167985516467,False,False,True,Low
+0.35776921123578803,1,-1.174007256523719,Facebook,Sports,United States,Urban,Software Engineer,-0.2764904167687691,True,False,True,Low
+0.28380145106695287,0,-0.001754868843832147,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,-1.6557528722467334,True,True,False,Medium
+0.4317369714046232,1,-0.3925056647371277,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,-0.27783341818598234,True,False,True,Medium
+1.6152211341059854,1,-1.5647580524170146,YouTube,Travel,United States,Rural,Student,-0.4621603626984951,False,True,True,Low
+-0.8996827116344095,1,-1.5647580524170146,YouTube,Sports,United States,Sub_Urban,Student,-0.9990251792294749,False,False,True,Low
+-0.6038116709590688,0,-0.001754868843832147,Facebook,Travel,United Kingdom,Urban,Marketer Manager,0.608883267529038,False,True,False,Medium
+0.13586593072928257,0,-0.3925056647371277,Facebook,Travel,United Kingdom,Urban,Student,0.19859633457040307,False,False,True,Medium
+0.13586593072928257,1,0.779746722942759,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,1.165893105318216,False,True,False,High
+-0.23397287011489315,0,-0.001754868843832147,YouTube,Sports,United States,Sub_Urban,Software Engineer,0.06631069497490213,True,False,True,Medium
+1.0974468129241395,1,-0.3925056647371277,Facebook,Sports,Australia,Urban,Student,-1.2541954484999842,True,True,False,Medium
+0.4317369714046232,0,-1.174007256523719,Instagram,Sports,Australia,Urban,Marketer Manager,1.5342112439889382,True,False,False,Low
+0.9495112925864693,1,1.1704975188360547,Instagram,Travel,United Kingdom,Rural,Marketer Manager,-1.5768515389854574,True,False,True,High
+-0.08603734977722285,1,-0.7832564606304233,Instagram,Lifestlye,United States,Rural,Student,1.5667790283563583,True,True,False,Low
+-1.0476182319720797,0,1.56124831472935,Instagram,Sports,United Kingdom,Rural,Marketer Manager,-1.686641904842637,True,False,False,High
+0.875543532417634,0,0.38899592704946345,Instagram,Lifestlye,United Kingdom,Sub_Urban,Student,1.3320895306983505,False,True,True,Medium
+0.5057047315734583,1,-1.5647580524170146,Instagram,Sports,Australia,Urban,Software Engineer,1.1544775932719036,True,False,True,Low
+-0.3819083904525635,0,-1.5647580524170146,YouTube,Sports,Australia,Urban,Software Engineer,0.24828738700729178,False,True,True,Low
+0.5796724917422935,1,1.1704975188360547,Instagram,Travel,Australia,Urban,Software Engineer,-1.44288714761844,False,True,True,High
+-1.713328073491596,0,1.56124831472935,YouTube,Lifestlye,Australia,Rural,Software Engineer,1.312616010148759,False,True,True,High
+-1.4174570328162555,0,1.56124831472935,Facebook,Sports,United States,Rural,Marketer Manager,-0.44201534144029697,True,False,False,High
+-1.4914247929850908,0,-1.174007256523719,YouTube,Lifestlye,United States,Urban,Student,-1.0561027394610363,False,False,False,Low
+-0.012069589608387709,1,-1.174007256523719,Facebook,Sports,Australia,Urban,Student,0.9768656558454569,False,False,False,Low
+-1.639360313322761,1,-0.001754868843832147,Facebook,Travel,Australia,Urban,Student,1.4633679192309414,True,True,True,Medium
+0.5796724917422935,0,-1.174007256523719,YouTube,Sports,United States,Rural,Software Engineer,1.5100372184791004,True,False,True,Low
+-0.012069589608387709,1,1.1704975188360547,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,-1.220620413069654,True,True,False,High
+-0.8996827116344095,0,-1.5647580524170146,YouTube,Sports,United Kingdom,Urban,Student,0.9113943367563131,True,False,True,Low
+0.6536402519111286,0,0.779746722942759,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,-0.22612786362327383,False,True,False,High
+0.9495112925864693,0,-0.001754868843832147,Instagram,Sports,United States,Urban,Software Engineer,-0.6649535766976894,False,True,False,Medium
+-1.565392553153926,0,0.779746722942759,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,1.1736153634671918,True,False,True,High
+0.6536402519111286,1,1.1704975188360547,Facebook,Sports,Australia,Sub_Urban,Student,-1.3468625462876957,True,True,False,High
+1.1714145730929746,0,1.1704975188360547,Facebook,Travel,United Kingdom,Urban,Marketer Manager,-0.7942174631044607,True,True,True,High
+1.4672856137683152,1,-1.5647580524170146,Facebook,Travel,United States,Rural,Student,-1.670861638190382,False,True,True,Low
+0.35776921123578803,0,-0.7832564606304233,Facebook,Travel,United Kingdom,Rural,Student,-0.24358688204704554,True,False,True,Low
+-0.8996827116344095,1,-0.7832564606304233,Facebook,Travel,United Kingdom,Urban,Marketer Manager,0.0018466269486681606,False,True,False,Low
+1.6152211341059854,0,-1.5647580524170146,Facebook,Travel,United Kingdom,Urban,Student,-0.7650071822800735,True,True,True,Low
+0.13586593072928257,1,-0.3925056647371277,YouTube,Travel,United Kingdom,Sub_Urban,Student,-0.23149986929212668,True,True,True,Medium
+-1.1955537523097501,1,-0.3925056647371277,YouTube,Travel,Australia,Urban,Marketer Manager,0.045829923362400715,False,False,True,Medium
+0.35776921123578803,0,-0.7832564606304233,YouTube,Lifestlye,United Kingdom,Urban,Software Engineer,1.2592317038145338,False,False,False,Low
+0.13586593072928257,1,0.779746722942759,Facebook,Lifestlye,United States,Urban,Student,0.0018466269486681606,False,False,False,High
+-1.0476182319720797,1,-0.7832564606304233,Facebook,Travel,United States,Sub_Urban,Software Engineer,-0.3537129982585286,False,True,False,Low
+0.13586593072928257,0,-0.7832564606304233,YouTube,Sports,United Kingdom,Urban,Student,1.2800482257813386,False,False,False,Low
+0.7276080120799637,1,-0.001754868843832147,YouTube,Travel,United Kingdom,Rural,Student,0.5084939115923508,False,False,True,Medium
+1.24538233326181,1,-0.001754868843832147,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,-0.4614888619898885,True,True,True,Medium
+-1.2695215124785852,0,0.38899592704946345,Instagram,Travel,Australia,Sub_Urban,Software Engineer,0.24996613877880827,False,True,False,Medium
+-1.4914247929850908,0,1.1704975188360547,YouTube,Lifestlye,Australia,Rural,Student,0.4403365896687805,False,False,False,High
+1.5412533739371503,0,0.38899592704946345,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,1.031257213242592,False,False,True,Medium
+0.875543532417634,0,1.1704975188360547,Instagram,Lifestlye,United States,Rural,Student,-1.225992418738507,True,True,False,High
+0.06189817056044744,0,1.56124831472935,Instagram,Lifestlye,Australia,Urban,Student,-0.32920322239438754,False,False,True,High
+-0.23397287011489315,0,1.56124831472935,Facebook,Travel,United States,Sub_Urban,Student,1.2612462059403537,False,False,True,High
+0.9495112925864693,1,-0.7832564606304233,Instagram,Lifestlye,United States,Urban,Student,-1.403940106519257,True,False,False,Low
+-1.121585992140915,1,-1.5647580524170146,YouTube,Sports,United Kingdom,Rural,Software Engineer,-0.2872344281064748,False,True,True,Low
+-0.012069589608387709,0,-0.3925056647371277,Instagram,Sports,United Kingdom,Rural,Marketer Manager,1.528503487965782,True,True,True,Medium
+-0.4558761506213986,0,1.56124831472935,Facebook,Sports,United Kingdom,Rural,Student,0.7958962148759772,True,True,True,High
+1.0974468129241395,1,0.779746722942759,YouTube,Lifestlye,Australia,Urban,Student,-0.3083867004275828,False,True,False,High
+0.5796724917422935,0,-1.174007256523719,Instagram,Lifestlye,Australia,Urban,Marketer Manager,-1.4747834312772536,True,True,False,Low
+-0.012069589608387709,1,-0.001754868843832147,YouTube,Travel,United States,Sub_Urban,Marketer Manager,1.5781945404026707,True,True,True,Medium
+-0.08603734977722285,1,-0.3925056647371277,YouTube,Lifestlye,Australia,Urban,Student,-0.535353939936615,True,True,True,Medium
+0.5796724917422935,0,1.1704975188360547,Facebook,Travel,United Kingdom,Urban,Marketer Manager,1.6104265744157877,True,True,True,High
+0.9495112925864693,1,-1.174007256523719,Facebook,Sports,Australia,Sub_Urban,Software Engineer,-0.6971856107108064,False,True,True,Low
+-0.8996827116344095,1,0.38899592704946345,Facebook,Sports,United States,Rural,Marketer Manager,1.4066261093536834,False,True,False,Medium
+-0.08603734977722285,1,-1.174007256523719,Facebook,Travel,United Kingdom,Rural,Software Engineer,1.6265425914223461,False,True,True,Low
+0.06189817056044744,0,-1.5647580524170146,Facebook,Lifestlye,United States,Sub_Urban,Marketer Manager,1.0517379848550932,True,True,True,Low
+0.801575772248799,0,1.1704975188360547,Facebook,Sports,United Kingdom,Rural,Student,0.1311105133554394,True,True,False,High
+1.24538233326181,1,-1.174007256523719,Facebook,Travel,United States,Sub_Urban,Software Engineer,-1.4213991249430287,True,True,True,Low
+-0.3079406302837283,1,1.56124831472935,Facebook,Sports,United States,Rural,Student,0.8983000729384842,True,False,False,High
+0.06189817056044744,1,1.1704975188360547,Facebook,Lifestlye,Australia,Sub_Urban,Student,-1.3871525888040919,False,False,True,High
+-0.16000510994605802,0,1.56124831472935,YouTube,Sports,United Kingdom,Urban,Marketer Manager,-0.044151171590884206,True,False,True,High
+-0.8257149514655744,1,-1.174007256523719,Instagram,Sports,Australia,Rural,Student,-0.8841985580577456,True,True,False,Low
+0.875543532417634,1,-0.3925056647371277,YouTube,Sports,Australia,Rural,Software Engineer,0.47794062935075027,True,True,True,Medium
+-0.8996827116344095,0,-0.3925056647371277,Facebook,Sports,United States,Rural,Student,-1.0188344501333697,False,False,True,Medium
+1.24538233326181,0,-0.001754868843832147,YouTube,Lifestlye,Australia,Sub_Urban,Student,0.9755226544282437,False,False,False,Medium
+-0.3819083904525635,0,-0.7832564606304233,YouTube,Travel,Australia,Rural,Software Engineer,1.4667254227739743,False,False,False,Low
+-0.8996827116344095,0,-1.5647580524170146,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,-0.08712721694170684,False,False,True,Low
+-1.121585992140915,0,1.1704975188360547,Facebook,Lifestlye,United States,Urban,Student,0.5971320051284225,True,True,True,High
+-1.2695215124785852,1,-0.001754868843832147,Facebook,Sports,United Kingdom,Rural,Software Engineer,-0.8788265523888927,True,True,False,Medium
+0.28380145106695287,1,-0.7832564606304233,Facebook,Sports,United States,Urban,Marketer Manager,-0.7331108986212598,False,True,False,Low
+-0.7517471912967392,1,0.779746722942759,YouTube,Travel,Australia,Rural,Software Engineer,-1.2132339052749814,False,False,False,High
+0.5057047315734583,1,0.779746722942759,YouTube,Sports,United States,Rural,Software Engineer,-0.5064794094665309,True,False,False,High
+-0.3819083904525635,0,-1.5647580524170146,Instagram,Lifestlye,United Kingdom,Rural,Student,-1.0980715337489488,True,True,False,Low
+-0.6038116709590688,1,-1.174007256523719,YouTube,Travel,United Kingdom,Urban,Software Engineer,-0.9362398629747574,False,False,True,Low
+0.801575772248799,1,-0.001754868843832147,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,1.2246494173212938,True,True,True,Medium
+-0.8996827116344095,1,1.1704975188360547,Instagram,Sports,United Kingdom,Rural,Marketer Manager,0.3718435173909069,False,False,True,High
+-0.23397287011489315,0,0.779746722942759,Instagram,Sports,Australia,Rural,Software Engineer,-1.5849095474887367,False,False,True,High
+0.875543532417634,1,0.779746722942759,Facebook,Travel,Australia,Urban,Student,0.6072045157575215,False,True,True,High
+-0.08603734977722285,1,0.38899592704946345,Facebook,Sports,United States,Urban,Software Engineer,1.004732935252631,False,False,True,Medium
+-0.6038116709590688,1,0.38899592704946345,Facebook,Lifestlye,United States,Rural,Software Engineer,1.0467017295405436,True,True,False,Medium
+1.5412533739371503,0,0.38899592704946345,Instagram,Lifestlye,Australia,Rural,Marketer Manager,0.22444911185175734,True,False,True,Medium
+-0.7517471912967392,0,-0.001754868843832147,Instagram,Lifestlye,Australia,Sub_Urban,Student,-0.025684902104202597,False,False,True,Medium
+-1.4174570328162555,0,-1.174007256523719,Instagram,Sports,Australia,Rural,Marketer Manager,-1.47847668517459,True,True,True,Low
+0.801575772248799,1,-0.7832564606304233,Instagram,Lifestlye,United States,Urban,Software Engineer,0.014605140412193634,True,False,False,Low
+-0.08603734977722285,0,0.779746722942759,Instagram,Travel,United States,Urban,Software Engineer,0.5246099285989092,False,False,True,High
+0.35776921123578803,1,1.1704975188360547,YouTube,Sports,United Kingdom,Rural,Student,0.6995358631909295,False,False,True,High
+-0.4558761506213986,1,-1.5647580524170146,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,1.3240315221950711,False,False,True,Low
+-0.8996827116344095,0,-0.7832564606304233,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,-0.5541559597775998,False,True,True,Low
+-1.121585992140915,1,0.38899592704946345,YouTube,Travel,United Kingdom,Sub_Urban,Student,0.8042899737335597,True,True,False,Medium
+1.4672856137683152,1,0.779746722942759,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,-0.2721256621628262,True,False,False,High
+-0.5298439107902337,0,0.779746722942759,YouTube,Lifestlye,United Kingdom,Urban,Software Engineer,-0.6347360448103923,False,True,True,High
+1.0234790527553044,0,1.56124831472935,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,-0.30100019263291017,False,True,True,High
+1.6152211341059854,0,1.1704975188360547,YouTube,Lifestlye,Australia,Rural,Marketer Manager,1.2313644244073598,False,True,True,High
+-0.8257149514655744,1,1.1704975188360547,Instagram,Travel,United States,Urban,Software Engineer,1.3978966001417976,False,False,False,High
+1.1714145730929746,0,-1.5647580524170146,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,0.5256171796618192,False,False,False,Low
+1.319350093430645,1,-0.001754868843832147,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,0.20430409059355922,False,False,False,Medium
+-1.121585992140915,1,-0.7832564606304233,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,1.1994681407485461,True,False,True,Low
+0.20983369089811774,0,-1.5647580524170146,Instagram,Travel,United States,Rural,Software Engineer,-1.3012004981024465,False,False,True,Low
+-1.4174570328162555,0,1.1704975188360547,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,1.1887241294108404,True,True,True,High
+0.35776921123578803,1,-0.7832564606304233,Facebook,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,-0.9463123736038564,False,True,False,Low
+0.9495112925864693,1,-1.174007256523719,Instagram,Lifestlye,United States,Rural,Software Engineer,-0.11801624953761063,False,False,True,Low
+1.0234790527553044,0,1.56124831472935,Instagram,Lifestlye,Australia,Rural,Marketer Manager,0.2868986777521715,False,True,True,High
+1.5412533739371503,1,-1.174007256523719,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,0.17039330480892573,False,True,True,Low
+-1.713328073491596,1,1.56124831472935,Facebook,Sports,United States,Rural,Student,0.5642284704066989,False,False,False,High
+-0.5298439107902337,0,-0.3925056647371277,YouTube,Lifestlye,United Kingdom,Urban,Student,0.9328823594317244,True,False,False,Medium
+-1.2695215124785852,1,-0.3925056647371277,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,1.649709365869274,True,False,False,Medium
+0.06189817056044744,1,0.38899592704946345,Instagram,Travel,United Kingdom,Rural,Software Engineer,0.6354075455189989,False,True,False,Medium
+-1.4914247929850908,0,-1.5647580524170146,Instagram,Lifestlye,Australia,Rural,Marketer Manager,0.2006108366962229,True,False,True,Low
+-1.3434892726474204,0,-1.174007256523719,Instagram,Lifestlye,Australia,Sub_Urban,Marketer Manager,1.366000316482984,False,False,True,Low
+0.5057047315734583,0,-0.001754868843832147,YouTube,Sports,Australia,Rural,Software Engineer,-1.0409939735173876,False,False,True,Medium
+-0.3819083904525635,0,1.56124831472935,Instagram,Sports,Australia,Rural,Student,1.576180038276851,False,False,True,High
+1.4672856137683152,1,-0.3925056647371277,YouTube,Sports,Australia,Urban,Software Engineer,1.3881598398670019,False,False,True,Medium
+-1.0476182319720797,0,0.38899592704946345,Instagram,Sports,United Kingdom,Urban,Student,-1.496271453952665,True,False,True,Medium
+0.13586593072928257,1,1.1704975188360547,Instagram,Sports,Australia,Rural,Marketer Manager,0.947991125375373,True,False,True,High
+-0.3819083904525635,1,-0.7832564606304233,YouTube,Travel,United States,Sub_Urban,Software Engineer,1.3367900356585967,True,True,False,Low
+-1.565392553153926,1,-0.3925056647371277,Instagram,Sports,Australia,Rural,Student,0.3090582011361894,True,True,True,Medium
+1.5412533739371503,1,-0.3925056647371277,Facebook,Lifestlye,United States,Rural,Marketer Manager,-1.4079691107708967,True,True,False,Medium
+-0.8257149514655744,0,-0.3925056647371277,Instagram,Travel,Australia,Sub_Urban,Student,0.15696329063679365,True,False,True,Medium
+0.28380145106695287,1,1.1704975188360547,Instagram,Sports,United States,Urban,Software Engineer,0.783473451766755,True,False,True,High
+-0.3079406302837283,0,0.38899592704946345,Facebook,Lifestlye,United States,Rural,Student,1.2034971450001857,True,True,False,Medium
+-1.1955537523097501,1,-0.001754868843832147,Instagram,Lifestlye,United States,Urban,Student,-0.24660863523577525,False,True,False,Medium
+-1.713328073491596,1,0.38899592704946345,Facebook,Lifestlye,United States,Rural,Software Engineer,1.4892206965122956,False,True,True,Medium
+-1.565392553153926,1,1.1704975188360547,Facebook,Lifestlye,Australia,Rural,Software Engineer,0.9583993863587753,True,True,False,High
+0.28380145106695287,1,-0.001754868843832147,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,-0.7391544049987192,True,False,False,Medium
+0.06189817056044744,0,0.38899592704946345,YouTube,Lifestlye,Australia,Rural,Student,1.0255494572194357,False,False,True,Medium
+0.6536402519111286,0,-0.3925056647371277,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,0.7049078688597824,False,False,True,Medium
+1.0234790527553044,1,1.56124831472935,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,1.4945927021811485,True,True,False,High
+1.4672856137683152,1,-1.5647580524170146,Instagram,Lifestlye,United States,Sub_Urban,Student,-0.33457522806324036,False,True,True,Low
+1.5412533739371503,1,0.779746722942759,Instagram,Travel,United States,Rural,Software Engineer,0.11768049918330732,False,False,True,High
+1.6891888942748208,0,-0.7832564606304233,Instagram,Travel,Australia,Rural,Student,-0.17442230906056536,False,True,False,Low
+-0.6038116709590688,0,-0.001754868843832147,Facebook,Sports,Australia,Urban,Software Engineer,0.34699799117246255,False,True,True,Medium
+-0.9736504718032446,1,-0.3925056647371277,Facebook,Travel,Australia,Urban,Software Engineer,-0.06295319143186912,False,True,True,Medium
+0.9495112925864693,0,-0.3925056647371277,Facebook,Sports,United States,Rural,Student,1.431807385926431,False,False,True,Medium
+0.875543532417634,0,1.1704975188360547,Instagram,Lifestlye,United Kingdom,Rural,Software Engineer,-1.286091732158798,True,True,True,High
+0.801575772248799,0,1.1704975188360547,Instagram,Sports,United States,Sub_Urban,Student,-0.7357969014556861,True,True,True,High
+-0.3819083904525635,1,-1.174007256523719,YouTube,Sports,United States,Rural,Software Engineer,1.133661071305099,False,True,False,Low
+-0.3079406302837283,1,-1.174007256523719,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,1.438522393012497,True,True,False,Low
+-0.4558761506213986,1,-0.7832564606304233,Instagram,Travel,Australia,Rural,Software Engineer,-0.6038470122144886,False,False,False,Low
+1.6891888942748208,1,-0.7832564606304233,Facebook,Sports,United States,Urban,Student,-0.4262350747880418,False,False,True,Low
+1.24538233326181,1,-1.5647580524170146,Instagram,Sports,United States,Urban,Software Engineer,0.6397723001249418,False,False,False,Low
+-0.7517471912967392,0,-0.7832564606304233,YouTube,Travel,United Kingdom,Rural,Marketer Manager,-1.4388581433668004,True,True,True,Low
+-0.6777794311279041,1,0.38899592704946345,Facebook,Lifestlye,Australia,Rural,Software Engineer,-0.7958962148759772,False,False,True,Medium
+0.5057047315734583,0,1.1704975188360547,YouTube,Travel,United Kingdom,Urban,Student,0.8925923169153281,False,True,True,High
+-1.713328073491596,1,0.38899592704946345,Facebook,Sports,United Kingdom,Rural,Student,0.8160412361341753,True,False,True,Medium
+-0.6038116709590688,0,-0.3925056647371277,Facebook,Sports,United States,Sub_Urban,Student,0.9778729069083668,False,False,True,Medium
+-0.9736504718032446,0,-0.3925056647371277,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,1.6450088609090276,True,False,False,Medium
+-1.0476182319720797,1,-1.5647580524170146,YouTube,Lifestlye,Australia,Rural,Student,-1.5298464893829953,False,True,False,Low
+0.5796724917422935,1,0.779746722942759,YouTube,Sports,Australia,Rural,Software Engineer,0.2586956479906941,False,True,True,High
+-0.6038116709590688,1,-1.5647580524170146,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,-1.000368180646688,True,False,False,Low
+-1.1955537523097501,0,-1.174007256523719,Instagram,Travel,United States,Rural,Software Engineer,0.9211310970311088,True,True,True,Low
+-0.8996827116344095,1,-1.5647580524170146,Facebook,Travel,United Kingdom,Sub_Urban,Student,-0.3701647656193904,False,True,False,Low
+-1.1955537523097501,1,-1.5647580524170146,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,-0.8382007595181933,False,True,True,Low
+0.28380145106695287,1,-1.5647580524170146,YouTube,Lifestlye,Australia,Sub_Urban,Student,0.4426868421489036,False,False,True,Low
+0.13586593072928257,1,-0.3925056647371277,Facebook,Travel,Australia,Urban,Marketer Manager,0.3046934465302465,True,True,True,Medium
+-1.1955537523097501,1,-0.3925056647371277,Facebook,Travel,Australia,Urban,Student,1.3616355618770408,False,False,True,Medium
+0.28380145106695287,1,0.38899592704946345,Instagram,Sports,Australia,Sub_Urban,Software Engineer,0.31610895857655874,True,False,True,Medium
+0.28380145106695287,0,0.779746722942759,Instagram,Sports,United Kingdom,Urban,Software Engineer,-0.010240385806250708,True,True,False,High
+0.875543532417634,0,1.56124831472935,Facebook,Travel,Australia,Urban,Marketer Manager,-0.3966890436093512,False,True,False,High
+-0.5298439107902337,1,-1.174007256523719,Facebook,Sports,United States,Sub_Urban,Marketer Manager,0.011247636869160615,False,False,False,Low
+0.6536402519111286,1,-1.5647580524170146,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,-1.5634215248133254,True,True,True,Low
+-0.3079406302837283,0,0.38899592704946345,Instagram,Travel,United States,Sub_Urban,Software Engineer,-1.3811090824266326,True,False,True,Medium
+-0.8257149514655744,1,0.38899592704946345,YouTube,Lifestlye,Australia,Urban,Student,1.6037115673297215,False,True,True,Medium
+1.6152211341059854,0,-0.7832564606304233,Facebook,Travel,United Kingdom,Sub_Urban,Student,-0.45712410738394554,True,True,False,Low
+0.801575772248799,0,-0.7832564606304233,Instagram,Travel,United Kingdom,Rural,Student,-0.5427404477312876,True,False,True,Low
+-0.4558761506213986,1,-0.001754868843832147,Instagram,Travel,United Kingdom,Rural,Student,-0.2929421841296309,True,True,True,Medium
+-1.4174570328162555,0,-0.001754868843832147,Facebook,Lifestlye,United States,Rural,Software Engineer,1.125938813156123,False,True,True,Medium
+-1.639360313322761,0,-0.001754868843832147,Instagram,Travel,United Kingdom,Sub_Urban,Software Engineer,-1.6765693942135382,True,False,True,Medium
+-1.0476182319720797,0,-0.001754868843832147,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,-0.03810766521342477,True,True,True,Medium
+0.4317369714046232,0,-0.3925056647371277,YouTube,Travel,Australia,Rural,Software Engineer,-0.6985286121280196,True,True,False,Medium
+1.5412533739371503,1,0.38899592704946345,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,1.5671147787106616,False,False,False,Medium
+-1.4174570328162555,1,-0.3925056647371277,Facebook,Travel,United Kingdom,Sub_Urban,Student,1.0953855309145224,True,True,False,Medium
+-1.713328073491596,0,0.779746722942759,Facebook,Travel,Australia,Urban,Software Engineer,1.4445658993899566,True,False,True,High
+-0.4558761506213986,1,-1.174007256523719,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,-0.5729579796185847,False,False,False,Low
+0.5796724917422935,0,-0.7832564606304233,Facebook,Sports,United States,Urban,Marketer Manager,-0.8613675339651211,False,False,False,Low
+-0.9736504718032446,1,1.1704975188360547,YouTube,Travel,United States,Urban,Student,-0.3594207542816847,False,True,False,High
+-0.23397287011489315,1,1.56124831472935,Facebook,Sports,Australia,Urban,Marketer Manager,0.4060900535298437,False,False,True,High
+0.13586593072928257,1,-0.3925056647371277,Instagram,Lifestlye,Australia,Urban,Software Engineer,-1.1128445493382941,True,False,True,Medium
+-0.16000510994605802,0,1.56124831472935,Instagram,Travel,United States,Sub_Urban,Student,-0.5027861555691946,True,False,True,High
+0.20983369089811774,1,0.38899592704946345,Facebook,Lifestlye,United Kingdom,Rural,Student,1.6339290992170188,False,False,True,Medium
+0.6536402519111286,0,-0.3925056647371277,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,0.6861058490187975,True,True,False,Medium
+1.24538233326181,0,1.56124831472935,Instagram,Travel,United Kingdom,Urban,Student,-1.5973323105979589,False,True,False,High
+-1.713328073491596,0,-0.001754868843832147,Facebook,Sports,United Kingdom,Urban,Student,1.4029328554563472,True,True,True,Medium
+-0.23397287011489315,1,1.1704975188360547,YouTube,Travel,Australia,Sub_Urban,Software Engineer,0.09350647367346958,True,False,False,High
+-1.3434892726474204,0,0.38899592704946345,Instagram,Travel,United States,Rural,Student,-0.1331250154812592,False,False,True,Medium
+-1.4174570328162555,0,0.779746722942759,Instagram,Lifestlye,United States,Rural,Student,1.1789873691360446,False,True,False,High
+0.5057047315734583,1,1.1704975188360547,Instagram,Travel,Australia,Sub_Urban,Software Engineer,0.359756504635988,True,False,True,High
+-1.4174570328162555,1,0.38899592704946345,YouTube,Travel,Australia,Sub_Urban,Software Engineer,0.8714400445942201,False,False,False,Medium
+1.0234790527553044,0,1.56124831472935,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,-1.3018719988110532,True,True,True,High
+-1.565392553153926,0,0.38899592704946345,YouTube,Sports,Australia,Urban,Software Engineer,-1.3052295023540863,True,True,True,Medium
+0.9495112925864693,1,-0.3925056647371277,YouTube,Lifestlye,Australia,Urban,Software Engineer,1.485191692260656,False,True,True,Medium
+0.9495112925864693,0,1.1704975188360547,Instagram,Lifestlye,United Kingdom,Urban,Marketer Manager,1.3381330370758098,True,False,True,High
+-1.0476182319720797,1,-0.3925056647371277,YouTube,Lifestlye,Australia,Urban,Student,1.2290141719272367,True,False,False,Medium
+-1.0476182319720797,0,-1.174007256523719,Instagram,Travel,United States,Rural,Student,-0.19658183244458327,False,True,False,Low
+-0.3819083904525635,0,1.56124831472935,Instagram,Travel,United States,Urban,Student,0.16334254736855638,False,True,False,High
+-0.5298439107902337,1,-0.001754868843832147,Facebook,Sports,Australia,Urban,Marketer Manager,0.6914778546876503,False,False,False,Medium
+-0.23397287011489315,0,-0.3925056647371277,YouTube,Sports,United States,Urban,Student,1.1356755734309187,True,False,False,Medium
+-0.7517471912967392,0,-1.174007256523719,YouTube,Sports,Australia,Urban,Marketer Manager,-0.7559419227138843,False,False,False,Low
+1.6152211341059854,0,0.779746722942759,Instagram,Lifestlye,United Kingdom,Urban,Marketer Manager,0.7421761581874489,True,False,False,High
+-1.713328073491596,0,0.38899592704946345,Instagram,Travel,Australia,Sub_Urban,Student,-1.1786516187817413,False,True,False,Medium
+1.5412533739371503,0,-1.174007256523719,Facebook,Travel,United Kingdom,Urban,Marketer Manager,-0.7676931851144998,True,False,True,Low
+-1.4914247929850908,1,-0.3925056647371277,Instagram,Sports,Australia,Sub_Urban,Student,-0.6609245724460499,True,False,True,Medium
+0.5796724917422935,1,-0.001754868843832147,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,-1.4378508923038904,True,False,True,Medium
+0.28380145106695287,1,1.56124831472935,Instagram,Travel,Australia,Urban,Student,1.1907386315366602,True,True,True,High
+-1.1955537523097501,1,-0.001754868843832147,Instagram,Sports,Australia,Rural,Marketer Manager,-1.0675182515073485,False,True,False,Medium
+1.0974468129241395,0,-1.174007256523719,Facebook,Travel,Australia,Sub_Urban,Student,0.1838233189810578,True,True,True,Low
+-1.713328073491596,0,1.1704975188360547,Instagram,Sports,United Kingdom,Rural,Software Engineer,1.4509451561217193,True,True,True,High
+-1.4174570328162555,0,-0.7832564606304233,Facebook,Travel,United Kingdom,Urban,Software Engineer,1.537568747531971,False,True,True,Low
+0.4317369714046232,0,-0.7832564606304233,YouTube,Travel,United Kingdom,Urban,Marketer Manager,0.13816127079580873,False,True,False,Low
+0.4317369714046232,0,1.56124831472935,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,0.8052972247964697,True,False,True,High
+-0.5298439107902337,0,-0.001754868843832147,Instagram,Sports,United Kingdom,Rural,Student,1.1309750684706725,True,False,True,Medium
+1.6891888942748208,1,1.56124831472935,Facebook,Travel,United States,Rural,Student,-0.36680726207635733,True,False,False,High
+-0.08603734977722285,1,1.56124831472935,Instagram,Sports,United States,Rural,Marketer Manager,-1.2552026995628942,False,True,False,High
+0.9495112925864693,1,-1.174007256523719,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,-1.3367900356585967,False,True,False,Low
+-0.23397287011489315,1,-0.001754868843832147,Instagram,Lifestlye,United States,Urban,Marketer Manager,1.3814448327809357,True,False,True,Medium
+1.0974468129241395,1,0.38899592704946345,Instagram,Sports,United Kingdom,Sub_Urban,Student,-0.6568955681944102,True,True,True,Medium
+1.0234790527553044,1,0.779746722942759,YouTube,Travel,Australia,Rural,Marketer Manager,-1.5886028013860731,False,False,False,High
+1.0234790527553044,0,-1.5647580524170146,YouTube,Sports,United Kingdom,Sub_Urban,Student,-1.509701468124797,True,True,False,Low
+-0.4558761506213986,0,-1.174007256523719,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,0.1277530098124064,True,True,False,Low
+0.4317369714046232,0,1.56124831472935,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,-1.2306929236987532,True,True,True,High
+1.0234790527553044,1,-1.5647580524170146,Instagram,Sports,United States,Urban,Software Engineer,-0.07067544958084505,False,False,True,Low
+0.6536402519111286,0,-1.174007256523719,YouTube,Lifestlye,United Kingdom,Rural,Student,-0.39769629467226114,True,False,True,Low
+-0.012069589608387709,1,0.38899592704946345,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,-0.42254182089070547,True,True,False,Medium
+-0.6777794311279041,1,0.38899592704946345,Instagram,Lifestlye,United States,Urban,Student,0.7794444475151154,False,False,True,Medium
+1.319350093430645,1,-1.5647580524170146,Facebook,Lifestlye,United States,Urban,Software Engineer,-0.4191843173476724,False,True,True,Low
+-1.4174570328162555,0,-0.001754868843832147,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,1.2615819562946569,False,True,False,Medium
+-1.4914247929850908,1,0.38899592704946345,Instagram,Lifestlye,United States,Sub_Urban,Student,-0.5853807427278069,False,True,False,Medium
+-1.0476182319720797,1,1.56124831472935,Instagram,Sports,United Kingdom,Rural,Marketer Manager,0.47021837120177434,False,False,True,High
+-0.5298439107902337,1,-0.7832564606304233,Instagram,Travel,United States,Sub_Urban,Student,0.45410235419521583,False,False,True,Low
+-0.3079406302837283,0,0.779746722942759,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,-1.3629785632942542,False,True,True,High
+-0.012069589608387709,0,0.38899592704946345,Facebook,Travel,United Kingdom,Rural,Marketer Manager,0.12506700697797996,False,False,True,Medium
+0.7276080120799637,0,1.1704975188360547,Facebook,Sports,United Kingdom,Sub_Urban,Student,-0.22512061256036395,True,False,False,High
+-1.3434892726474204,1,0.38899592704946345,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,-0.6303712902044494,False,False,True,Medium
+-0.8257149514655744,1,-0.7832564606304233,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,1.4925782000553287,False,False,True,Low
+1.3933178535994801,1,-1.5647580524170146,Instagram,Travel,United Kingdom,Sub_Urban,Student,0.17072905516322903,False,False,True,Low
+1.3933178535994801,0,0.779746722942759,Facebook,Lifestlye,United States,Sub_Urban,Student,0.8086547283395027,False,True,False,High
+-0.08603734977722285,0,-0.3925056647371277,Facebook,Sports,United States,Urban,Student,0.741168907124539,True,False,True,Medium
+-0.6038116709590688,1,-0.3925056647371277,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,0.3365897301890602,False,False,True,Medium
+0.5057047315734583,1,0.38899592704946345,Facebook,Travel,United States,Rural,Marketer Manager,-0.8489447708558989,False,True,False,Medium
+-0.9736504718032446,1,1.1704975188360547,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,1.553013263829923,False,False,True,High
+-0.6038116709590688,1,1.1704975188360547,Facebook,Sports,United Kingdom,Urban,Marketer Manager,-0.15797054169970356,True,True,True,High
+1.1714145730929746,0,-0.3925056647371277,Facebook,Lifestlye,United Kingdom,Urban,Student,-1.2303571733444498,False,True,True,Medium
+-1.4914247929850908,0,1.56124831472935,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,0.5037934066321045,False,True,True,High
+0.5796724917422935,1,-1.174007256523719,YouTube,Travel,United Kingdom,Rural,Marketer Manager,-1.2864274825131012,False,False,False,Low
+-1.565392553153926,1,1.56124831472935,Facebook,Sports,United Kingdom,Rural,Marketer Manager,0.3302104734572974,True,True,False,High
+0.20983369089811774,0,1.1704975188360547,Facebook,Lifestlye,United States,Sub_Urban,Marketer Manager,1.5976680609522622,True,False,False,High
+0.5796724917422935,0,1.1704975188360547,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,0.4940566463573088,True,True,True,High
+-0.23397287011489315,1,-0.3925056647371277,Instagram,Lifestlye,United States,Sub_Urban,Student,1.3468625462876957,False,True,False,Medium
+-1.4174570328162555,0,-0.7832564606304233,Instagram,Travel,United States,Urban,Marketer Manager,-1.4160271192741758,False,True,True,Low
+-0.4558761506213986,0,0.38899592704946345,YouTube,Travel,United States,Urban,Marketer Manager,1.3626428129399508,True,True,False,Medium
+1.319350093430645,1,-0.3925056647371277,Facebook,Sports,United Kingdom,Rural,Student,0.5192379229300564,False,False,False,Medium
+-0.16000510994605802,0,0.779746722942759,YouTube,Lifestlye,United Kingdom,Rural,Student,-0.8858773098292622,True,True,True,High
+-0.23397287011489315,1,1.56124831472935,YouTube,Lifestlye,Australia,Sub_Urban,Software Engineer,1.4952642028897551,True,True,True,High
+-1.3434892726474204,0,-1.174007256523719,Facebook,Sports,Australia,Rural,Software Engineer,0.31610895857655874,False,False,False,Low
+-1.713328073491596,1,-0.7832564606304233,Instagram,Lifestlye,United States,Urban,Software Engineer,-0.1858378211068776,False,False,False,Low
+1.24538233326181,0,-0.7832564606304233,YouTube,Travel,Australia,Rural,Software Engineer,-0.8338360049122503,False,True,True,Low
+-0.8996827116344095,0,1.1704975188360547,Facebook,Travel,United States,Sub_Urban,Marketer Manager,1.4365078908866773,True,False,True,High
+0.13586593072928257,1,1.1704975188360547,Facebook,Sports,United States,Sub_Urban,Marketer Manager,-1.6258710907137395,False,True,True,High
+1.6152211341059854,1,1.1704975188360547,Instagram,Travel,Australia,Urban,Student,1.411662364668233,True,False,True,High
+0.7276080120799637,0,1.56124831472935,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,-0.04717292477961392,True,True,True,High
+0.13586593072928257,1,-0.001754868843832147,Instagram,Travel,Australia,Sub_Urban,Student,-1.6178130822104604,False,False,False,Medium
+1.5412533739371503,1,-0.001754868843832147,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,-1.4301286341549144,False,False,True,Medium
+0.20983369089811774,1,1.1704975188360547,YouTube,Lifestlye,United Kingdom,Rural,Marketer Manager,-0.6518593128798607,True,True,False,High
+-1.121585992140915,0,0.779746722942759,YouTube,Sports,United States,Urban,Software Engineer,-0.9688076473421777,True,True,False,High
+0.13586593072928257,0,1.56124831472935,YouTube,Travel,United States,Sub_Urban,Student,1.1665646060268224,True,True,True,High
+1.6891888942748208,0,1.1704975188360547,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,1.5107087191877069,True,True,True,High
+-0.16000510994605802,0,-1.174007256523719,Facebook,Lifestlye,United Kingdom,Urban,Student,0.047508675133917225,False,False,False,Low
+1.3933178535994801,0,-1.174007256523719,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,0.7596351766112206,False,True,False,Low
+0.13586593072928257,1,-0.7832564606304233,Instagram,Sports,United States,Sub_Urban,Student,-1.6248638396508297,True,True,False,Low
+0.875543532417634,1,-0.7832564606304233,YouTube,Sports,United States,Urban,Software Engineer,-1.139368827328255,False,False,True,Low
+-1.713328073491596,1,-1.174007256523719,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,-0.009233134743340803,True,True,True,Low
+-1.1955537523097501,0,1.1704975188360547,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,1.5301822397372984,True,True,False,High
+0.801575772248799,1,0.38899592704946345,Instagram,Lifestlye,United Kingdom,Rural,Student,0.2905919316495078,True,False,True,Medium
+1.6891888942748208,0,-1.5647580524170146,YouTube,Sports,United States,Rural,Software Engineer,-1.093706779143006,False,True,True,Low
+-0.7517471912967392,1,1.1704975188360547,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,1.089342024537063,False,True,True,High
+0.13586593072928257,1,-0.001754868843832147,Facebook,Travel,Australia,Rural,Marketer Manager,0.17677256154068846,True,False,False,Medium
+0.28380145106695287,1,-0.001754868843832147,YouTube,Travel,United Kingdom,Rural,Software Engineer,0.16770730197449932,False,False,True,Medium
+-0.08603734977722285,0,-0.3925056647371277,Instagram,Lifestlye,Australia,Rural,Student,-0.4050828024669338,False,False,True,Medium
+-0.012069589608387709,0,0.38899592704946345,Facebook,Lifestlye,United States,Sub_Urban,Software Engineer,-1.5691292808364816,True,True,True,Medium
+-1.639360313322761,0,-0.7832564606304233,YouTube,Sports,United States,Rural,Software Engineer,-0.5904169980423565,True,True,True,Low
+1.5412533739371503,1,1.56124831472935,Facebook,Lifestlye,Australia,Sub_Urban,Student,-0.5783299852874375,True,False,False,High
+0.13586593072928257,0,0.779746722942759,Instagram,Travel,Australia,Urban,Software Engineer,-0.08175521127285401,False,False,True,High
+-0.7517471912967392,0,-1.5647580524170146,YouTube,Travel,United States,Urban,Software Engineer,0.9688076473421777,True,False,True,Low
+-1.2695215124785852,1,0.779746722942759,YouTube,Travel,Australia,Urban,Marketer Manager,-1.62083483539919,True,False,True,High
+-1.565392553153926,0,-0.001754868843832147,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,-1.4485949036415962,True,True,False,Medium
+1.6891888942748208,1,-0.001754868843832147,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,-1.6171415815018537,True,True,False,Medium
+-0.08603734977722285,1,-1.174007256523719,Facebook,Sports,United Kingdom,Urban,Marketer Manager,-1.457324412853482,False,True,False,Low
+1.6152211341059854,1,-0.3925056647371277,Facebook,Travel,Australia,Urban,Student,0.31443020680504224,False,False,False,Medium
+1.3933178535994801,1,0.38899592704946345,Instagram,Travel,United States,Rural,Student,-1.0621462458384956,True,False,False,Medium
+1.6891888942748208,0,0.779746722942759,Facebook,Travel,Australia,Urban,Marketer Manager,0.712294376654455,True,True,True,High
+1.5412533739371503,1,-0.001754868843832147,Instagram,Travel,Australia,Rural,Marketer Manager,-1.2733332186952726,True,False,True,Medium
+-0.4558761506213986,1,1.56124831472935,Instagram,Sports,United States,Urban,Student,0.06530344391199222,False,True,False,High
+1.0234790527553044,0,-0.7832564606304233,Facebook,Lifestlye,United States,Urban,Student,0.7451979113761786,True,False,True,Low
+0.801575772248799,0,-1.5647580524170146,Instagram,Lifestlye,United States,Rural,Student,-1.4449016497442597,False,False,True,Low
+0.06189817056044744,0,1.56124831472935,YouTube,Lifestlye,Australia,Sub_Urban,Student,0.4527593527780026,True,True,True,High
+0.9495112925864693,0,-0.3925056647371277,YouTube,Travel,United States,Sub_Urban,Marketer Manager,0.534346688873705,True,False,False,Medium
+-1.0476182319720797,0,-0.001754868843832147,Facebook,Travel,United Kingdom,Sub_Urban,Student,-1.0839700188682102,False,True,True,Medium
+1.0974468129241395,0,-0.7832564606304233,Facebook,Lifestlye,United Kingdom,Rural,Student,0.6045185129230951,False,False,True,Low
+-0.5298439107902337,0,1.56124831472935,YouTube,Travel,United States,Urban,Software Engineer,0.9150875906536494,True,False,False,High
+1.0974468129241395,0,-0.3925056647371277,YouTube,Travel,United States,Urban,Software Engineer,-0.2751474153515559,False,False,True,Medium
+0.13586593072928257,0,-1.174007256523719,Instagram,Sports,United States,Rural,Software Engineer,-1.0994145351661622,True,False,True,Low
+1.4672856137683152,0,0.38899592704946345,YouTube,Travel,Australia,Rural,Software Engineer,-1.2857559818044948,False,False,False,Medium
+-0.5298439107902337,1,1.56124831472935,Instagram,Sports,Australia,Rural,Marketer Manager,-1.0994145351661622,False,False,True,High
+-0.3079406302837283,1,1.56124831472935,Instagram,Travel,Australia,Sub_Urban,Software Engineer,0.8187272389686018,True,True,True,High
+-1.0476182319720797,0,-1.174007256523719,Instagram,Lifestlye,Australia,Sub_Urban,Student,1.0295784614710752,False,True,True,Low
+-1.565392553153926,1,0.38899592704946345,Facebook,Lifestlye,United States,Sub_Urban,Student,-0.6924851057505602,True,False,False,Medium
+1.24538233326181,0,-0.7832564606304233,YouTube,Travel,United Kingdom,Rural,Software Engineer,1.1051222911893184,False,False,False,Low
+1.5412533739371503,1,-0.001754868843832147,YouTube,Sports,United Kingdom,Rural,Marketer Manager,-1.2511736953112547,False,True,True,Medium
+0.875543532417634,1,-0.001754868843832147,Instagram,Sports,Australia,Sub_Urban,Student,0.025349151749899296,False,False,True,Medium
+1.6891888942748208,0,-0.7832564606304233,Instagram,Lifestlye,United States,Urban,Software Engineer,1.325038773257981,False,True,False,Low
+-0.16000510994605802,0,-0.3925056647371277,Instagram,Travel,Australia,Urban,Marketer Manager,-0.7821304503495419,False,True,False,Medium
+0.7276080120799637,0,-1.174007256523719,YouTube,Travel,United Kingdom,Urban,Marketer Manager,-0.1327892651269559,False,False,True,Low
+1.6891888942748208,0,1.56124831472935,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,-1.2511736953112547,False,True,True,High
+1.24538233326181,0,-1.5647580524170146,Instagram,Sports,United Kingdom,Urban,Software Engineer,-1.0812840160337838,False,True,False,Low
+0.9495112925864693,0,-0.001754868843832147,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,-1.1692506088612489,False,True,True,Medium
+-1.3434892726474204,0,-0.7832564606304233,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,0.7368041525185961,True,False,False,Low
+0.13586593072928257,0,-1.5647580524170146,Facebook,Sports,United States,Rural,Software Engineer,-1.0520737352093965,True,False,True,Low
+0.9495112925864693,1,-0.7832564606304233,Instagram,Travel,Australia,Urban,Marketer Manager,0.31745195999377196,True,True,False,Low
+0.6536402519111286,0,1.1704975188360547,Instagram,Sports,United States,Rural,Software Engineer,-0.9053508303788537,True,True,True,High
+-0.16000510994605802,0,1.1704975188360547,Instagram,Lifestlye,United States,Rural,Student,1.5234672326512324,True,True,False,High
+-1.3434892726474204,0,0.38899592704946345,Facebook,Lifestlye,Australia,Urban,Software Engineer,0.7482196645649083,False,True,False,Medium
+-1.3434892726474204,0,1.56124831472935,Instagram,Sports,United Kingdom,Rural,Software Engineer,-0.33289647629172386,False,True,True,High
+0.4317369714046232,1,-1.5647580524170146,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,-1.5603997716245956,True,True,True,Low
+-0.9736504718032446,1,1.1704975188360547,Facebook,Sports,Australia,Sub_Urban,Software Engineer,-1.118216555007147,False,False,True,High
+0.4317369714046232,1,0.779746722942759,Facebook,Travel,United States,Urban,Student,0.08880596871322335,True,False,True,High
+-0.012069589608387709,0,-0.7832564606304233,YouTube,Lifestlye,United States,Urban,Marketer Manager,-0.28253392314622855,False,False,False,Low
+0.5057047315734583,0,0.38899592704946345,YouTube,Sports,United Kingdom,Urban,Marketer Manager,0.4467158464005432,True,True,True,Medium
+1.1714145730929746,1,-0.001754868843832147,Instagram,Sports,Australia,Urban,Marketer Manager,1.529510739028692,True,True,False,Medium
+0.9495112925864693,1,-0.7832564606304233,Instagram,Travel,United States,Urban,Software Engineer,-1.3710365717975335,False,True,False,Low
+-0.012069589608387709,1,-0.001754868843832147,Facebook,Sports,United Kingdom,Rural,Software Engineer,1.1323180698878856,True,False,False,Medium
+-1.639360313322761,0,-0.3925056647371277,Facebook,Lifestlye,United Kingdom,Rural,Software Engineer,-0.6609245724460499,False,False,True,Medium
+-0.3079406302837283,0,-1.5647580524170146,Facebook,Travel,United Kingdom,Sub_Urban,Software Engineer,1.0144696955274268,False,False,True,Low
+0.28380145106695287,0,0.779746722942759,Instagram,Travel,Australia,Rural,Marketer Manager,1.3633143136485575,False,True,True,High
+-1.4914247929850908,0,-0.7832564606304233,Instagram,Travel,Australia,Urban,Student,-1.2028256442915792,False,True,False,Low
+-0.6777794311279041,1,-1.174007256523719,Instagram,Travel,Australia,Sub_Urban,Software Engineer,-0.10962249068002808,True,True,True,Low
+-1.3434892726474204,1,-0.7832564606304233,YouTube,Lifestlye,United States,Rural,Student,-0.26608215578536676,False,True,True,Low
+-1.639360313322761,0,0.779746722942759,YouTube,Travel,Australia,Rural,Marketer Manager,-0.5440834491485007,False,True,True,High
+-1.1955537523097501,1,0.38899592704946345,YouTube,Lifestlye,Australia,Urban,Marketer Manager,-0.28152667208331866,True,True,False,Medium
+0.13586593072928257,1,-0.3925056647371277,Instagram,Sports,Australia,Urban,Student,0.7952247141673706,True,True,True,Medium
+1.5412533739371503,0,-0.001754868843832147,YouTube,Travel,United Kingdom,Urban,Student,1.3220170200692514,False,False,True,Medium
+-1.3434892726474204,1,-0.7832564606304233,YouTube,Lifestlye,United Kingdom,Rural,Marketer Manager,0.16199954595134317,False,True,False,Low
+-1.4914247929850908,1,-1.5647580524170146,Instagram,Sports,Australia,Rural,Marketer Manager,-0.7216953865749475,False,True,True,Low
+-0.3819083904525635,0,1.56124831472935,Instagram,Travel,United Kingdom,Sub_Urban,Student,-0.4477230974634531,True,True,True,High
+-0.3079406302837283,1,1.1704975188360547,Facebook,Travel,United Kingdom,Rural,Software Engineer,-1.6889921573227602,True,False,True,High
+-0.3079406302837283,0,0.38899592704946345,Facebook,Sports,Australia,Urban,Marketer Manager,1.3371257860129,True,False,False,Medium
+-0.8996827116344095,1,0.779746722942759,YouTube,Sports,United Kingdom,Urban,Student,1.645344611263331,True,True,True,High
+1.6891888942748208,1,0.38899592704946345,Facebook,Sports,United Kingdom,Urban,Marketer Manager,-0.47357587474480733,True,False,True,Medium
+-1.713328073491596,0,1.56124831472935,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,0.05388793186567996,False,True,True,High
+0.13586593072928257,0,-0.7832564606304233,Instagram,Travel,United States,Sub_Urban,Marketer Manager,-1.631914597091199,True,False,False,Low
+-0.7517471912967392,1,-0.7832564606304233,Instagram,Travel,United Kingdom,Rural,Software Engineer,1.187045377639324,True,True,False,Low
+0.9495112925864693,1,-0.7832564606304233,YouTube,Travel,Australia,Rural,Student,0.02098439714395637,False,True,True,Low
+-0.9736504718032446,0,1.56124831472935,Facebook,Travel,Australia,Sub_Urban,Software Engineer,-0.1307747630011361,False,True,True,High
+0.875543532417634,1,-0.3925056647371277,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,-0.24358688204704554,True,False,False,Medium
+-0.8257149514655744,0,0.779746722942759,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,1.3475340469963022,False,False,True,High
+1.3933178535994801,0,1.56124831472935,YouTube,Lifestlye,Australia,Urban,Student,-0.24056512885831582,True,True,True,High
+0.6536402519111286,0,1.56124831472935,YouTube,Travel,Australia,Urban,Software Engineer,1.2075261492518254,True,True,True,High
+-1.3434892726474204,0,-0.7832564606304233,YouTube,Lifestlye,United States,Urban,Student,1.3915173434100347,False,False,False,Low
+-1.4174570328162555,0,1.1704975188360547,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,1.1699221095698555,False,True,False,High
+1.4672856137683152,0,-0.3925056647371277,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,0.4101190577814833,True,True,False,Medium
+-1.639360313322761,0,1.1704975188360547,YouTube,Travel,Australia,Rural,Student,0.4138123116788196,False,True,False,High
